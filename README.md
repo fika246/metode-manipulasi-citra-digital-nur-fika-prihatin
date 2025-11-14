@@ -7,8 +7,6 @@ Kamu tinggal copy–paste ke **README.md**.
 
 # 🌙🖼️ **Metode Manipulasi Citra Digital – Operasi Logika Steganografi**
 
-### ✨ Oleh: **Nur Fika Prihatin**
-
 Repositori ini berisi implementasi **steganografi berbasis operasi logika** menggunakan Python dalam Jupyter Notebook.
 Proyek ini disusun untuk mata kuliah **Metode Manipulasi Citra Digital** dengan fokus pada manipulasi tiga gambar menggunakan operasi AND, OR, XOR, NOT, dan gabungan logika lainnya.
 
