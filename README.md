@@ -1,10 +1,3 @@
-Siap! Aku buatkan **README super keren** gabungan **versi 1 (lengkap + teori + tabel + preview)** dan **versi 5 (estetik + emoji banyak)**.
-Format ini *premium look*, rapi, aesthetic, dan lengkap untuk tugas akademik maupun portfolio GitHub.
-
-Kamu tinggal copy–paste ke **README.md**.
-
----
-
 # 🌙🖼️ **Metode Manipulasi Citra Digital – Operasi Logika Steganografi**
 
 Repositori ini berisi implementasi **steganografi berbasis operasi logika** menggunakan Python dalam Jupyter Notebook.
